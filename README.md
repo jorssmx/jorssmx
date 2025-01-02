@@ -69,6 +69,6 @@ hi, I´m Jorge Sánchez 🔮.
  <p align='left'>
    <a href="https://www.linkedin.com/in/jorge-s%C3%A1nchez-54b044340/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
  <a href="https://instagram.com/jorssmx" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/insta%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://github.com/jorssmxx" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://github.com/jorssmx" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
  
  </p>
