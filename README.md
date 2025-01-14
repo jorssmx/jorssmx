@@ -17,7 +17,7 @@ hi, I´m Jorge Sánchez 🔮.
 ```
 <br><br>
 
-- :boom: You can visit [MY PORTFOLIO](https://www.instagram.com/jorssmx). 
+- :boom: You can visit [MY PORTFOLIO](https://jorssmx.github.io/cvjorssmx/). 
 
 <!--  -->
 <br><br>
